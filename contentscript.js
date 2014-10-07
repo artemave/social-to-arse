@@ -5,7 +5,14 @@ var walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
   }, false);
 
 while(node = walk.nextNode()) {
-  node.nodeValue = node.nodeValue.replace(/\b([sS])ocial\b/g, function($match, $1) {
-      return $1 == 's' ? 'arse' : 'Arse';
+  node.nodeValue = node.nodeValue.replace(/social/ig, function($match) {
+      switch ($match) {
+        case 'social':
+          return 'arse';
+        case 'Social':
+          return 'Arse';
+        case 'SOCIAL':
+          return 'ARSE';
+      }
   });
 }
