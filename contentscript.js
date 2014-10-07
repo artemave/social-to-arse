@@ -1,5 +1,4 @@
-var nodes=[],
-walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+var walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
     acceptNode: function(node) {
       return node.nodeValue.match(/\bsocial\b/i) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
     }
