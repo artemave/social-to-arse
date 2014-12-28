@@ -5,14 +5,20 @@ var walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
   }, false);
 
 while(node = walk.nextNode()) {
-  node.nodeValue = node.nodeValue.replace(/social/ig, function($match) {
-      switch ($match) {
+  node.nodeValue = node.nodeValue.replace(/(\ba )?(social)/ig, function($0, $1, $2) {
+      var article = '';
+
+      if ($1) {
+        article = $1 == 'a ' ? 'an ' : 'An ';
+      }
+
+      switch ($2) {
         case 'social':
-          return 'arse';
+          return article + 'arse';
         case 'Social':
-          return 'Arse';
+          return article + 'Arse';
         case 'SOCIAL':
-          return 'ARSE';
+          return article + 'ARSE';
       }
   });
 }
