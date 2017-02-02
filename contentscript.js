@@ -16,7 +16,13 @@ fetch('https://make-news-great-again.herokuapp.com/')
 
     while(node = walk.nextNode()) {
       Object.keys(replacements).forEach(function(key) {
-        node.nodeValue = node.nodeValue.replace(key, replacements[key])
+        var replacementsForKey = replacements[key];
+
+        var replacement = replacementsForKey[
+          Math.floor(Math.random() * replacementsForKey.length)
+        ];
+
+        node.nodeValue = node.nodeValue.replace(key, replacement)
       })
     }
   })
