@@ -1,2 +1,2 @@
 install :
-	rm make-news-greate-again.zip; zip -r make-news-greate-again contentscript.js manifest.json
+	rm make-news-great-again.zip; zip -r make-news-great-again contentscript.js manifest.json
