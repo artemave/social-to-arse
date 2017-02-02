@@ -336,6 +336,9 @@
   "Union": [
     "Onion"
   ],
+  "union": [
+    "onion"
+  ],
   "Southern": [
     "Southern fried"
   ],
@@ -386,5 +389,105 @@
   ],
   "Sign in": [
     "Bugger off"
+  ],
+  "Europe": [
+    "Narnia"
+  ],
+  "children": [
+    "dickwits"
+  ],
+  "cancer": [
+    "bellyache"
+  ],
+  "Protest": [
+    "Pissabout"
+  ],
+  "French": [
+    "Froggy"
+  ],
+  "Middle East": [
+    "Smelly Beast"
+  ],
+  "hour": [
+    "lifetime"
+  ],
+  "Follow": [
+    "Chase"
+  ],
+  "secretary": [
+    "sexcretary"
+  ],
+  "Spanish": [
+    "Omelette"
+  ],
+  "former": [
+    "happy"
+  ],
+  "Money": [
+    "Dosh",
+    "Moola"
+  ],
+  "German": [
+    "Sausage muncher"
+  ],
+  "Digital": [
+    "Complicated"
+  ],
+  "Technology": [
+    "Clever shit"
+  ],
+  "University": [
+    "Big School"
+  ],
+  "Family": [
+    "Dicks"
+  ],
+  "singer": [
+    "piss artist"
+  ],
+  "language": [
+    "tongue"
+  ],
+  "budget": [
+    "yo yo"
+  ],
+  "Downing Street": [
+    "That place in town"
+  ],
+  "tax": [
+    "tickles"
+  ],
+  "referendum": [
+    "slumber party"
+  ],
+  "teacher": [
+    "twat"
+  ],
+  "research": [
+    "guesswork"
+  ],
+  "millions": [
+    "loads"
+  ],
+  "fraud": [
+    "frolicks"
+  ],
+  "banker": [
+    "wanker"
+  ],
+  "Google": [
+    "Giggle"
+  ],
+  "Amazon": [
+    "Amazonon"
+  ],
+  "NHS": [
+    "Elf service"
+  ],
+  "Civil": [
+    "Silly"
+  ],
+  "president": [
+    "pelican"
   ]
 }
