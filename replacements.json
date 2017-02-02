@@ -79,7 +79,16 @@
   ],
   "Pregnant": [
     "Preggo",
-    "Duffed"
+    "Duffed",
+    "Up the duff"
+  ],
+  "pregnant": [
+    "preggo",
+    "duffed",
+    "up the duff"
+  ],
+  "shooting": [
+    "arse munching"
   ],
   "DJ": [
     "Dickwad",
@@ -170,6 +179,9 @@
   ],
   "Business": [
     "Boredom"
+  ],
+  "business": [
+    "boredom"
   ],
   "Science": [
     "Nerd"
@@ -396,6 +408,9 @@
   "children": [
     "dickwits"
   ],
+  "child": [
+    "tosspot"
+  ],
   "cancer": [
     "bellyache"
   ],
@@ -426,6 +441,11 @@
   "Money": [
     "Dosh",
     "Moola"
+  ],
+  "money": [
+    "dosh",
+    "moola",
+    "baloney"
   ],
   "German": [
     "Sausage muncher"
@@ -470,7 +490,7 @@
     "loads"
   ],
   "fraud": [
-    "frolicks"
+    "frollicks"
   ],
   "banker": [
     "wanker"
@@ -479,7 +499,7 @@
     "Giggle"
   ],
   "Amazon": [
-    "Amazonon"
+    "Amazeballs"
   ],
   "NHS": [
     "Elf service"
@@ -489,5 +509,134 @@
   ],
   "president": [
     "pelican"
+  ],
+  "body": [
+    "booty"
+  ],
+  "abuse": [
+    "toss"
+  ],
+  "survivor": [
+    "sausage"
+  ],
+  "trains": [
+    "choo-choos"
+  ],
+  "Watch": [
+    "Drink"
+  ],
+  "Listen": [
+    "Chillax"
+  ],
+  "Donald": [
+    "Donny"
+  ],
+  "police": [
+    "boobs"
+  ],
+  "student": [
+    "sausage"
+  ],
+  "Election": [
+    "Erection"
+  ],
+  "expert": [
+    "dickmuncher"
+  ],
+  "Army": [
+    "Gang"
+  ],
+  "figure": [
+    "sausage"
+  ],
+  "Criticism": [
+    "Laughter"
+  ],
+  "Extra": [
+    "Less"
+  ],
+  "By": [
+    "Not By"
+  ],
+  "Share": [
+    "Toss around"
+  ],
+  "investigation": [
+    "tea party"
+  ],
+  "killing": [
+    "sausage"
+  ],
+  "politician": [
+    "dickwit"
+  ],
+  "website": [
+    "wanksite"
+  ],
+  "universities": [
+    "universitries"
+  ],
+  "photograph": [
+    "silly song"
+  ],
+  "photo": [
+    "silly song"
+  ],
+  "Africa": [
+    "Arabica"
+  ],
+  "highlight": [
+    "sausage"
+  ],
+  "RSS": [
+    "Arse feed"
+  ],
+  "candidate": [
+    "candy bar"
+  ],
+  "Apple": [
+    "Banana"
+  ],
+  "virtual reality": [
+    "actual reality"
+  ],
+  "Robot": [
+    "Dickhead"
+  ],
+  "engineer": [
+    "dickabout"
+  ],
+  "forecast": [
+    "fried egg"
+  ],
+  "Environment": [
+    "Turd"
+  ],
+  "Scientist": [
+    "Proper Nerd"
+  ],
+  "Earth": [
+    "This Planet We're On"
+  ],
+  "stock exchange": [
+    "sausage party"
+  ],
+  "trouble": [
+    "inconvenience"
+  ],
+  "factor": [
+    "fuckup"
+  ],
+  "trade": [
+    "sausage"
+  ],
+  "Tuesday": [
+    "Choosday"
+  ],
+  "Wednesday": [
+    "Wankday"
+  ],
+  "city": [
+    "special place"
   ]
 }
