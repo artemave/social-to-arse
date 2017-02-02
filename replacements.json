@@ -59,7 +59,8 @@
     "Gaffer"
   ],
   "Fight": [
-    "Kerfuffle"
+    "Kerfuffle",
+    "Barney"
   ],
   "Lawyer": [
     "Fag",
@@ -113,6 +114,12 @@
   "English": [
     "Wankers"
   ],
+  "America": [
+    "Yankville"
+  ],
+  "American": [
+    "Yankee"
+  ],
   "TV": [
     "Telly",
     "Smellivision",
@@ -128,5 +135,32 @@
   ],
   "Radio": [
     "Wireless"
+  ],
+  "Stories": [
+    "Fables",
+    "Legends",
+    "Myths"
+  ],
+  "Politics": [
+    "Nonsense",
+    "Gibberish"
+  ],
+  "Business": [
+    "Boredom"
+  ],
+  "Science": [
+    "Nerd"
+  ],
+  "Women": [
+    "Gal Dem"
+  ],
+  "Men": [
+    "Man Dem"
+  ],
+  "Feature": [
+    "Bollock"
+  ],
+  "World": [
+    "Toilet"
   ]
 }
