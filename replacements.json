@@ -285,10 +285,52 @@
   "Audio": [
     "Noise"
   ],
+  "Video": [
+    "Veedyo"
+  ],
+  "Arts": [
+    "Farts"
+  ],
+  "Health": [
+    "Elf"
+  ],
   "Scotland": [
     "Aye"
   ],
   "Scottish": [
     "Aye"
+  ],
+  "seconds": [
+    "moments"
+  ],
+  "minutes": [
+    "moments"
+  ],
+  "year": [
+    "ear"
+  ],
+  "Train": [
+    "Choo choo"
+  ],
+  "strike": [
+    "laze around"
+  ],
+  "iPlayer": [
+    "ayePlayer"
+  ],
+  "scandal": [
+    "sandal"
+  ],
+  "game": [
+    "gay"
+  ],
+  "professional": [
+    "profeshnil"
+  ],
+  "Arsenal": [
+    "Arsehole"
+  ],
+  "Chelsea": [
+    "Chellywell"
   ]
 }
