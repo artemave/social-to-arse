@@ -6,7 +6,10 @@
     "Incompetent baboon",
     "Trump McDonald",
     "Fascist Tangerine",
-    "Agent Orange"
+    "Agent Orange",
+    "Ya Bam",
+    "Roaster",
+    "Bigly Eejit"
   ],
   "Brexit": [
     "Bucket",
@@ -29,7 +32,7 @@
     "Yam Asereth",
     "Death warmed up",
     "Opportunistic shoe wearing xenophobe",
-    "Captain fancy pants",
+    "Captain fancy pants"
   ],
   "The government": [
     "The gov'mint"
@@ -41,44 +44,52 @@
     "gov'mint"
   ],
   "PM": [
-    "Pee pee"
+    "Pee pee",
+    "PMT"
   ],
   "MP": [
-    "Mofo"  
+    "Mofo",
+    "MP3"
   ],
   "White Paper": [
-    "Toss Rag"
+    "Toss Rag",
+    "Tosspaper"
   ],
   "Boss": [
     "Gaffer"
   ],
   "Fight": [
-    "Kerfuffle" 
+    "Kerfuffle"
   ],
   "Lawyer": [
-    "Fag"
+    "Fag",
+    "Loser"
   ],
   "Pregnant": [
-    "Preggo"  
+    "Preggo",
+    "Duffed"
   ],
   "DJ": [
-    "Dickwad"  
+    "Dickwad",
+    "Disc Focky"
   ],
   "UK": [
     "Blighty"
   ],
   "Home": [
-    "Yard"  
+    "Yard"
   ],
   "Newspaper": [
-    "Wank rag"
+    "Wank rag",
+    "Mingepaper"
   ],
   "News": [
     "Wank",
     "Toss"
   ],
   "Sport": [
-    "Tosh"  
+    "Tosh",
+    "Balls"
   ],
   "BBC": [
     "Beeb",
@@ -89,10 +100,12 @@
     "Meerkat"
   ],
   "Weather": [
-    "Piss"  
+    "Piss"
   ],
   "England": [
-    "Tossville"
+    "Tossville",
+    "Wankville",
+    "Arsington"
   ],
   "Britain": [
     "Tossington"
@@ -104,5 +117,16 @@
     "Telly",
     "Smellivision",
     "Gogglebox"
+  ],
+  "Police": [
+    "Old Bill",
+    "Babylon",
+    "Boy Dem",
+    "Feds",
+    "Fuzz",
+    "Rozzers"
+  ],
+  "Radio": [
+    "Wireless"
   ]
 }
