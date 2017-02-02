@@ -43,6 +43,9 @@
   "government": [
     "gov'mint"
   ],
+  "Prime Minister": [
+    "Prime Eejit"
+  ],
   "PM": [
     "Pee pee",
     "PMT"
@@ -52,6 +55,10 @@
     "MP3"
   ],
   "White Paper": [
+    "Toss Rag",
+    "Tosspaper"
+  ],
+  "White paper": [
     "Toss Rag",
     "Tosspaper"
   ],
@@ -87,6 +94,10 @@
   "News": [
     "Wank",
     "Toss"
+  ],
+  "Sports": [
+    "Tosh",
+    "Balls"
   ],
   "Sport": [
     "Tosh",
@@ -145,6 +156,14 @@
     "Nonsense",
     "Gibberish"
   ],
+  "political": [
+    "nonsensical",
+    "stupid"
+  ],
+  "politics": [
+    "nonsense",
+    "gibberish"
+  ],
   "Business": [
     "Boredom"
   ],
@@ -162,5 +181,86 @@
   ],
   "World": [
     "Toilet"
+  ],
+  "Education": [
+    "School"
+  ],
+  "The City": [
+    "Tosstown"
+  ],
+  "Economy": [
+    "Dosh"
+  ],
+  "Football": [
+    "Footie"
+  ],
+  "Bank": [
+    "Wank"
+  ],
+  "Article 50": [
+    "Article 5000"
+  ],
+  "article 50": [
+    "Article Shifty"
+  ],
+  "U.S.A": [
+    "Y.A.N.K"
+  ],
+  "U.S": [
+    "Y.A.N.K"
+  ],
+  "US": [
+    "YANK"
+  ],
+  "EU": [
+    "Eee-You"
+  ],
+  "Democrat": [
+    "Dingobat"
+  ],
+  "Republican": [
+    "Pelican"
+  ],
+  "White House": [
+    "Wank House"
+  ],
+  "Putin": [
+    "Pancake",
+    "Petticoat"
+  ],
+  "Qaeda": [
+    "Quiche"
+  ],
+  "Obama": [
+    "Omelette"
+  ],
+  "soldier": [
+    "silly bugger"
+  ],
+  "Food": [
+    "Nosh",
+    "Grub"
+  ],
+  "Fashion": [
+    "Wank"
+  ],
+  "Opinion": [
+    "Hearsay"
+  ],
+  "Magazine": [
+    "Wank Rag"
+  ],
+  "Hate": [
+    "Love",
+    "Joy"
+  ],
+  "Court": [
+    "Funhouse"
+  ],
+  "Today": [
+    "Last Century"
+  ],
+  "the news": [
+    "silly stories"
   ]
 }
