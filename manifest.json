@@ -28,7 +28,11 @@
       "*://*.indianexpress.com/*",
       "*://*.cnbc.com/*",
       "*://*.cbsnews.com/*",
-      "*://*.reddit.com/*"
+      "*://*.nypost.com/*",
+      "*://news.com.au/*",
+      "*://*.reddit.com/*",
+      "*://*.theatlantic.com/*",
+      "*://*.chicagotribune.com/*"
     ],
     "all_frames": true,
     "js": [
