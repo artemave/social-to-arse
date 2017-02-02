@@ -62,6 +62,10 @@
     "Toss Rag",
     "Tosspaper"
   ],
+  "white paper": [
+    "toss rag",
+    "tosspaper"
+  ],
   "Boss": [
     "Gaffer"
   ],
@@ -262,5 +266,29 @@
   ],
   "the news": [
     "silly stories"
+  ],
+  "asylum": [
+    "arse"
+  ],
+  "Heathrow": [
+    "Heefrow"
+  ],
+  "migration": [
+    "mutation"
+  ],
+  "Australia": [
+    "Down Under"
+  ],
+  "Entertainment": [
+    "Fun"
+  ],
+  "Audio": [
+    "Noise"
+  ],
+  "Scotland": [
+    "Aye"
+  ],
+  "Scottish": [
+    "Aye"
   ]
 }
