@@ -1,2 +1,2 @@
 install :
-	rm social-to-arse.zip; zip -r social-to-arse contentscript.js manifest.json
+	rm make-news-greate-again.zip; zip -r make-news-greate-again contentscript.js manifest.json

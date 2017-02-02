@@ -1,0 +1,18 @@
+{
+  "name": "make-news-great-again",
+  "version": "1.0.0",
+  "description": "Makes news great again",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshski/make-news-great-again.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshski/make-news-great-again/issues"
+  },
+  "homepage": "https://github.com/joshski/make-news-great-again#readme"
+}

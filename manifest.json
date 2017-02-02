@@ -1,13 +1,16 @@
 {
-  "name": "Social To Arse",
+  "name": "Make News Great Again",
   "manifest_version": 2,
   "version": "0.5",
-  "description": "Replace text 'social' to 'arse'",
+  "description": "Makes news great, again",
   "content_scripts": [{
     "matches": [ "<all_urls>" ],
     "all_frames": true,
     "js": [
       "contentscript.js"
     ]
-  }]
+  }],
+  "web_accessible_resources" : [
+    "*.json"
+  ]
 }
