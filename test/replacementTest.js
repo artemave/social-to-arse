@@ -29,14 +29,14 @@ describe('contentscript.js', function() {
   it('replaces text with random replacements', function() {
     var div = document.createElement('div')
     div.id = 'news'
-    div.innerHTML = '<b>Trump, Brexit</b> Brexit, Trump, Trump <b>Pants</b> <span>Brexit, <a>Brexit</a>, Trump</span>'
+    div.innerHTML = '<b>Trump, Brexit</b> Brexit, Trump, Trump <b>Pants</b> <span>Brexit, <a>Brexit Trump</a>, Trump</span>'
     document.body.appendChild(div)
     require('../contentscript')
 
     return new Promise(function(resolve) {
       setTimeout(function() {
         assert.equal(document.querySelector('#news').innerHTML,
-          '<b>Minge, Bucket</b> Banana, Minge, Minge <b>Pants</b> <span>Bucket, <a>Banana</a>, Minge</span>')
+          '<b>Minge, Bucket</b> Banana, Minge, Minge <b>Pants</b> <span>Banana, <a>Bucket Minge</a>, Chapati</span>')
         resolve()
       }, 1)
     })

@@ -1,4 +1,4 @@
-fetch('https://make-news-great-again.herokuapp.com/')
+fetch('https://make-news-great-again.herokuapp.com/replacements.json')
   .then(function (response) {
     return response.json()
   })
@@ -16,7 +16,8 @@ fetch('https://make-news-great-again.herokuapp.com/')
     while(node = walk.nextNode()) {
       var reg = new RegExp(keyPattern, 'g')
       var m
-      while ((m = reg.exec(node.nodeValue)) !== null) {
+      var value = node.nodeValue
+      while ((m = reg.exec(value)) !== null) {
         for (var i = 1; i < m.length; i++) {
           if (m[i]) {
             var key = m[i];
