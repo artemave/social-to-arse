@@ -9,7 +9,8 @@
     "Agent Orange",
     "Ya Bam",
     "Roaster",
-    "Bigly Eejit"
+    "Bigly Eejit",
+    "Chapati Haed"
   ],
   "Brexit": [
     "Bucket",
@@ -44,7 +45,14 @@
     "gov'mint"
   ],
   "Prime Minister": [
-    "Prime Eejit"
+    "Prime Eejit",
+    "Prime Monster",
+    "Prime Muncher"
+  ],
+  "prime Minister": [
+    "prime eejit",
+    "prime monster",
+    "prime muncher"
   ],
   "PM": [
     "Pee pee",
@@ -146,8 +154,15 @@
   ],
   "TV": [
     "Telly",
-    "Smellivision",
-    "Gogglebox"
+    "Smellyvision",
+    "TB"
+  ],
+  "Music": [
+    "Muzak",
+    "Moozic"
+  ],
+  "Local": [
+    "Mysterious"
   ],
   "Police": [
     "Old Bill",
@@ -188,6 +203,9 @@
   ],
   "Women": [
     "Gal Dem"
+  ],
+  "woman": [
+    "gal"
   ],
   "Men": [
     "Man Dem"
@@ -279,6 +297,9 @@
   "the news": [
     "silly stories"
   ],
+  "news": [
+    "myths"
+  ],
   "asylum": [
     "arse"
   ],
@@ -325,13 +346,25 @@
     "Choo choo"
   ],
   "strike": [
-    "laze around"
+    "duvet day"
   ],
   "iPlayer": [
     "ayePlayer"
   ],
   "scandal": [
     "sandal"
+  ],
+  "agree": [
+    "disagree"
+  ],
+  "action": [
+    "inaction"
+  ],
+  "save": [
+    "sex"
+  ],
+  "guy": [
+    "gay"
   ],
   "game": [
     "gay"
@@ -456,6 +489,9 @@
   "Technology": [
     "Clever shit"
   ],
+  "technology": [
+    "clever shit"
+  ],
   "University": [
     "Big School"
   ],
@@ -540,6 +576,12 @@
   "Election": [
     "Erection"
   ],
+  "election": [
+    "erection"
+  ],
+  "Expert": [
+    "Dickmuncher"
+  ],
   "expert": [
     "dickmuncher"
   ],
@@ -621,6 +663,9 @@
   "stock exchange": [
     "sausage party"
   ],
+  "stock market": [
+    "sausage meerkat"
+  ],
   "trouble": [
     "inconvenience"
   ],
@@ -641,5 +686,202 @@
   ],
   "Paul Nuttall": [
     "What a bawbag"
+  ],
+  "Uber": [
+    "Udder"
+  ],
+  "deal": [
+    "dilly-dally"
+  ],
+  "Reporter": [
+    "Arsemuncher"
+  ],
+  "know": [
+    "fantasize"
+  ],
+  "Who": [
+    "Why"
+  ],
+  "Ireland": [
+    "Fairyville"
+  ],
+  "Most Read": [
+    "Other Shit"
+  ],
+  "Sections": [
+    "Sanctions"
+  ],
+  "boss": [
+    "badger"
+  ],
+  "Paper": [
+    "Vagina"
+  ],
+  "people": [
+    "pricks"
+  ],
+  "week": [
+    "wank"
+  ],
+  "move": [
+    "munch"
+  ],
+  "officer": [
+    "knobhead"
+  ],
+  "driver": [
+    "pilot"
+  ],
+  "More": [
+    "Less"
+  ],
+  "jail": [
+    "heaven"
+  ],
+  "Kill": [
+    "Wank"
+  ],
+  "teenager": [
+    "tosser"
+  ],
+  "contract": [
+    "shitpaper"
+  ],
+  "supermarket": [
+    "superwankstation"
+  ],
+  "by accident": [
+    "mysteriously"
+  ],
+  "British": [
+    "Wank"
+  ],
+  "Legal": [
+    "Homosexual"
+  ],
+  "Nation": [
+    "Universe"
+  ],
+  "Email": [
+    "He-mail"
+  ],
+  "mobile": [
+    "portophone"
+  ],
+  "Travel": [
+    "Trampolining"
+  ],
+  "Privacy": [
+    "Piss"
+  ],
+  "papers": [
+    "piss rags"
+  ],
+  "Russian": [
+    "Rushing",
+    "Raisin"
+  ],
+  "West": [
+    "Wrist",
+    "Waist"
+  ],
+  "Korea": [
+    "Kreer"
+  ],
+  "nuclear": [
+    "new clear"
+  ],
+  "Nuclear": [
+    "New Clear"
+  ],
+  "Weapon": [
+    "Wep'n"
+  ],
+  "weapon": [
+    "wep'n"
+  ],
+  "defence": [
+    "d'fence"
+  ],
+  "Moscow": [
+    "Moo Moo"
+  ],
+  "press": [
+    "puss"
+  ],
+  "summit": [
+    "salmon"
+  ],
+  "tackle": [
+    "tickle"
+  ],
+  "an SMS": [
+    "a SMILE"
+  ],
+  "committee": [
+    "calamity"
+  ],
+  "debate": [
+    "dingo"
+  ],
+  "Leave": [
+    "Leaf"
+  ],
+  "Remain": [
+    "Raisin"
+  ],
+  "Labour": [
+    "Licky Lick"
+  ],
+  "Conservative": [
+    "Conversative"
+  ],
+  "Corbyn": [
+    "Pussy Corbyn"
+  ],
+  "decade": [
+    "minute"
+  ],
+  "attack": [
+    "tickle"
+  ],
+  "insurance": [
+    "unsurance"
+  ],
+  "question": [
+    "queschin"
+  ],
+  "expensive": [
+    "expressive"
+  ],
+  "Russia": [
+    "Rusher"
+  ],
+  "formal": [
+    "farmyard"
+  ],
+  "domestic": [
+    "donut"
+  ],
+  "programme": [
+    "poogram"
+  ],
+  "Programme": [
+    "Poogram"
+  ],
+  "company": [
+    "cump'ny"
+  ],
+  "software": [
+    "sexware"
+  ],
+  "public": [
+    "pubic"
+  ],
+  "lettuce": [
+    "lattice"
+  ],
+  "Tesco": [
+    "Tescoco"
   ]
 }
