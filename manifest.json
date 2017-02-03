@@ -1,7 +1,7 @@
 {
   "name": "Make News Great Again",
   "manifest_version": 2,
-  "version": "0.1",
+  "version": "0.2",
   "description": "Turns nasty news into fun news",
   "content_scripts": [{
     "matches": [

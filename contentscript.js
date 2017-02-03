@@ -4,26 +4,30 @@ fetch('https://make-news-great-again.herokuapp.com/')
   })
   .then(function (replacements) {
     var keys = Object.keys(replacements)
-    var keyRegex = new RegExp('(' + keys.join('|') + ')')
+    var keyPattern = '(?:' + keys.map(function(k) { return '(' + k + ')'}).join('|') + ')'
+    var keyRegex = new RegExp(keyPattern)
     var walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
         acceptNode: function(node) {
-          if (node.parentNode.nodeName.match(/INPUT|TEXTAREA/) || node.parentNode.isContentEditable) {
-            return NodeFilter.FILTER_SKIP;
-          }
-
-          return node.nodeValue.match(keyRegex) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+          return node.parentNode.nodeName.match(/INPUT|TEXTAREA|SCRIPT/) || node.parentNode.isContentEditable ?
+            NodeFilter.FILTER_SKIP : NodeFilter.FILTER_ACCEPT;
         }
       }, false);
 
     while(node = walk.nextNode()) {
-      keys.forEach(function(key) {
-        var replacementsForKey = replacements[key];
-
-        var replacement = replacementsForKey[
-          Math.floor(Math.random() * replacementsForKey.length)
-        ];
-
-        node.nodeValue = node.nodeValue.replace(new RegExp(key, 'g'), replacement)
-      })
+      var reg = new RegExp(keyPattern, 'g')
+      var m
+      while ((m = reg.exec(node.nodeValue)) !== null) {
+        for (var i = 1; i < m.length; i++) {
+          if (m[i]) {
+            var key = m[i];
+            var replacementsForKey = replacements[key];
+            var replacement = replacementsForKey[
+              Math.floor(Math.random() * replacementsForKey.length)
+            ];
+            node.nodeValue = node.nodeValue.replace(new RegExp(key, 'g'), replacement)
+            break
+          }
+        }
+      }
     }
   })
